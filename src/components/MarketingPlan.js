@@ -9,7 +9,6 @@ import {
     ShieldCheckIcon,
     SparklesIcon,
     TagIcon,
-    TruckIcon,
     CalendarIcon,
     CogIcon,
     DocumentChartBarIcon,

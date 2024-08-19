@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
+import WebsiteAudit from './components/WebsiteAudit';
 import SeptemberCalendar from './components/SeptemberCalendar';
 import YearlyContentPlan from './components/YearlyContentPlan';
 import InstagramStrategy from './components/InstagramStrategy';
@@ -27,6 +28,7 @@ function App() {
   const renderContent = () => {
     switch (activeSection) {
       case 'home': return <Home />;
+      case 'audit': return <WebsiteAudit />;
       case 'septemberCalendar': return <SeptemberCalendar />;
       case 'yearlyContentPlan': return <YearlyContentPlan />;
       case 'instagramStrategy': return <InstagramStrategy />;

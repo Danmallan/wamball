@@ -22,6 +22,7 @@ const Navbar = ({ activeSection, setActiveSection }) => {
                 </div>
                 <div className="hidden md:flex space-x-4">
                     <NavLink section="home" label="Home" />
+                    <NavLink section="audit" label="Website Audit" />
                     <NavLink section="septemberCalendar" label="September Calendar" />
                     <NavLink section="yearlyContentPlan" label="Yearly Content Plan" />
                     <NavLink section="instagramStrategy" label="Instagram Strategy" />
