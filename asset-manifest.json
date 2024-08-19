@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wamball/static/css/main.f855e6bc.css",
-    "main.js": "/wamball/static/js/main.ba5930b2.js",
-    "static/js/453.f03ebf52.chunk.js": "/wamball/static/js/453.f03ebf52.chunk.js",
-    "static/media/logo.svg": "/wamball/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/wamball/static/css/main.7c767189.css",
+    "main.js": "/wamball/static/js/main.8b20b8ce.js",
+    "static/js/453.d2ca92e9.chunk.js": "/wamball/static/js/453.d2ca92e9.chunk.js",
+    "static/media/wambal.png": "/wamball/static/media/wambal.02b6d6e783ae4780d298.png",
     "index.html": "/wamball/index.html",
-    "main.f855e6bc.css.map": "/wamball/static/css/main.f855e6bc.css.map",
-    "main.ba5930b2.js.map": "/wamball/static/js/main.ba5930b2.js.map",
-    "453.f03ebf52.chunk.js.map": "/wamball/static/js/453.f03ebf52.chunk.js.map"
+    "main.7c767189.css.map": "/wamball/static/css/main.7c767189.css.map",
+    "main.8b20b8ce.js.map": "/wamball/static/js/main.8b20b8ce.js.map",
+    "453.d2ca92e9.chunk.js.map": "/wamball/static/js/453.d2ca92e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ba5930b2.js"
+    "static/css/main.7c767189.css",
+    "static/js/main.8b20b8ce.js"
   ]
 }
